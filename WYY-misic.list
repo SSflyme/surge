@@ -1,12 +1,4 @@
 //   网易云解锁
 
 
-DOMAIN-SUFFIX,music.126.net
-DOMAIN-SUFFIX,music.163.com
-USER-AGENT,NeteaseMusic*
-USER-AGENT,NeteaseMusic**
-IP-CIDR,223.252.199.0/24
-IP-CIDR,59.111.181.0/24
-IP-CIDR,115.236.118.0/24
-DOMAIN-KEYWORD,netease
-HOST-SUFFIX,wyy.edu.bid
+
